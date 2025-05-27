@@ -1,4 +1,5 @@
 # Space Wars!
+<img width="800" alt="Screenshot 2025-05-26 at 7 23 33 PM" src="https://github.com/user-attachments/assets/6ba218a5-f7cd-4223-ab88-661d8b72d035" />
 
 
 # Story
