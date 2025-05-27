@@ -17,7 +17,8 @@ Aliens have decided they wanted to invade earth! The world needs a hero, and its
 
 # Links 
 <a href="https://pheonyxgames.itch.io/space-wars">Play the game on itch here!</a>
-<a href="https://pheonyxgames.itch.io/space-wars">Download on Windows here!</a>
+
+<a href="https://github.com/WoodrowCrawford/Mini-Game-Jam-185-Aliens/releases/download/v1.0-Windows/SpaceWars-v1.0-Windows.zip">Download on Windows here!</a>
 
 
 Download on Mac here!
