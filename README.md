@@ -15,5 +15,10 @@ Aliens have decided they wanted to invade earth! The world needs a hero, and its
 - Try to be quick! You only have one life, so make it count! 
 
 
+# Links 
+
+Download on Windows here!
+Download on Mac here!
 
 
+<a href="https://pheonyxgames.itch.io/space-wars">Play the game on itch here!</a>
