@@ -20,7 +20,9 @@ Aliens have decided they wanted to invade earth! The world needs a hero, and its
 
 <a href="https://github.com/WoodrowCrawford/Mini-Game-Jam-185-Aliens/releases/download/v1.0-Windows/SpaceWars-v1.0-Windows.zip">Download on Windows here!</a>
 
+<a href="https://github.com/WoodrowCrawford/Mini-Game-Jam-185-Aliens/releases/download/v1.0-Mac/SpaceWars-v1.0-Mac.zip">Download on Mac here!</a>
 
-Download on Mac here!
+
+
 
 
